@@ -1,1 +1,6 @@
 book/*
+*.DS_Store
+*~
+*.swp
+*.swo
+.vscode/

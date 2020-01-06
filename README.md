@@ -37,7 +37,7 @@ setup.
 Once you have that done then just do the following:
 
 ```bash
-$ cargo install mdbook
+$ cargo install mdbook mdbook-epub
 ```
 
 Make sure the `cargo install` directory is in your `$PATH` so that you can run
@@ -65,5 +65,6 @@ The files are all written in Markdown so if you don't want to generate the book
 to read them then you can read them from the `src` directory.
 
 [mdbook]: https://github.com/rust-lang-nursery/mdBook
+[mdbook-epub]: https://github.com/Michael-F-Bryan/mdbook-epub
 [rustup]: https://github.com/rust-lang-nursery/rustup.rs/
 [book]: https://rustwasm.github.io/book/game-of-life/introduction.html
